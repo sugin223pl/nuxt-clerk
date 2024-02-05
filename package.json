@@ -4,7 +4,7 @@
   "description": "Clerk integration for nuxt made simple",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sugin223pl/nuxt-clerk-usable.git"
+    "url": "git+https://github.com/sugin223pl/nuxt-clerk.git"
   },
   "publishConfig": {
     "access": "public"
